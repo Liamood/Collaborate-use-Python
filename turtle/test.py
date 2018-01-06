@@ -9,6 +9,6 @@ def drawGraph(len, line):
 		my_turtle.left(360 / line)
 		#my_turtle.forward(len)
 
-drawGraph(200, 4)
+drawGraph(100, 6)
 
 turtle.exitonclick()
